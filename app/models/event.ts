@@ -34,7 +34,7 @@ export default class Event extends BaseModel {
 
 	@column()
 	declare categoryId: number;
-	@belongsTo(() => EventCategory)
+	@belongsTo(() => EventCategory, { foreignKey: "categoryId" })
 	declare category: BelongsTo<typeof EventCategory>;
 
 	@column()

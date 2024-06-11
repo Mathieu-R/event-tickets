@@ -12,3 +12,4 @@ export function convertToFullDateTime(dateString: string, timeString: string | u
 	const datetimeObject = date.set({ hour: time.hour, minute: time.minute });
 	return datetimeObject;
 }
+

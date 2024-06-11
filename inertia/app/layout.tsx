@@ -1,4 +1,3 @@
-import { Children } from "react";
 import NavBar from "./components/navbar";
 
 function Layout({ children }) {

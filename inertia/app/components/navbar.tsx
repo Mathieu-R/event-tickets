@@ -1,7 +1,6 @@
 import { Link } from "@inertiajs/react";
 
 function NavBar() {
-	console.log("navbar");
 	return (
 		<header className="navbar">
 			<h2 className="navbar__title">Event Tickets</h2>

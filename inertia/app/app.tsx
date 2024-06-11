@@ -1,6 +1,8 @@
 /// <reference path="../../adonisrc.ts" />
 /// <reference path="../../config/inertia.ts" />
 
+import "virtual:uno.css";
+
 import "../css/index.scss";
 import { createRoot } from "react-dom/client";
 import { createInertiaApp } from "@inertiajs/react";
