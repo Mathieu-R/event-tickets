@@ -1,72 +1,72 @@
 [
-	{
-		"owner": {
-			"name": "Société Royale d'Harmonie",
-			"abbreviation": "SRH"
-		},
-		"title": "Concert de Gala",
-		"description": "La Société Royale d'Harmonie de Braine-l'Alleud a le plaisir de vous proposer d'assister à son concert de Gala le samedi 2 décembre à 19:00 à la salle communale d'Ophain (Rue des Combattants 3, 1421 Ophain-Bois-Seigneur-Isaac). Ce concert dirigé par Raphaël D'Agostino est l'apothéose d'une année de répétitions: nous sommes convaincus que notre programme vous enchantera et vous étonnera!",
-		"category": "Concert",
-		"venue": {
-			"name": "Salle communale d'Ophain",
-			"street_number": 1,
-			"street_name": "Avenue du 21 Juillet",
-			"city": "Braine l'Alleud",
-			"postal_code": "1420",
-			"country": "Belgique",
-			"lat": 50.66550240329019,
-			"lng": 4.347516037881592,
-			"capacity": 300
-		},
-		"poster_url": "affiche-gala-2023.jpg",
-		"date": "02/12/23",
-		"start_time": "19:00",
-		"tickets": [
-			{
-				"name": "children",
-				"description": "0 to 12 years old",
-				"price": 0.0
-			},
-			{
-				"name": "adults",
-				"price": 10.0
-			}
-		]
-	},
-	{
-		"owner": {
-			"name": "Orchestre Symphonique de Nivelle",
-			"abbreviation": "OSN"
-		},
-		"title": "Alors, on danse ?",
-		"description": "Avec la participation de l'école BalletoJazz",
-		"category": "Concert",
-		"venue": {
-			"name": "Waux-Hall",
-			"street_number": 1,
-			"street_name": "Place Albert 1er",
-			"postal_code": "1400",
-			"city": "Nivelles",
-			"country": "Belgique",
-			"lat": 50.59805997807004,
-			"lng": 4.322366416396473,
-			"capacity": 500
-		},
-		"poster_url": "alors-on-danse-2023.jpg",
-		"date": "10/12/23",
-		"start_time": "15:00",
-		"end_time": "17:00",
-		"capacity": 200,
-		"tickets": [
-			{
-				"name": "children",
-				"description": "0 to 12 years old",
-				"price": 12
-			},
-			{
-				"name": "adults",
-				"price": 18.0
-			}
-		]
-	}
+    {
+        "owner": {
+            "name": "Société Royale d'Harmonie",
+            "abbreviation": "SRH"
+        },
+        "title": "Concert de Gala",
+        "description": "La Société Royale d'Harmonie de Braine-l'Alleud a le plaisir de vous proposer d'assister à son concert de Gala le samedi 2 décembre à 19:00 à la salle communale d'Ophain (Rue des Combattants 3, 1421 Ophain-Bois-Seigneur-Isaac). Ce concert dirigé par Raphaël D'Agostino est l'apothéose d'une année de répétitions: nous sommes convaincus que notre programme vous enchantera et vous étonnera!",
+        "category": "Concert",
+        "venue": {
+            "name": "Salle communale d'Ophain",
+            "street_number": 1,
+            "street_name": "Avenue du 21 Juillet",
+            "city": "Braine l'Alleud",
+            "postal_code": "1420",
+            "country": "Belgique",
+            "lat": 50.66550240329019,
+            "lng": 4.347516037881592,
+            "capacity": 300
+        },
+        "poster_url": "affiche-gala-2023.jpg",
+        "date": "02/12/23",
+        "start_time": "19:00",
+        "tickets": [
+            {
+                "name": "children",
+                "description": "0 to 12 years old",
+                "price": 0.0
+            },
+            {
+                "name": "adults",
+                "price": 10.0
+            }
+        ]
+    },
+    {
+        "owner": {
+            "name": "Orchestre Symphonique de Nivelle",
+            "abbreviation": "OSN"
+        },
+        "title": "Alors, on danse ?",
+        "description": "Avec la participation de l'école BalletoJazz",
+        "category": "Concert",
+        "venue": {
+            "name": "Waux-Hall",
+            "street_number": 1,
+            "street_name": "Place Albert 1er",
+            "postal_code": "1400",
+            "city": "Nivelles",
+            "country": "Belgique",
+            "lat": 50.59805997807004,
+            "lng": 4.322366416396473,
+            "capacity": 500
+        },
+        "poster_url": "alors-on-danse-2023.jpg",
+        "date": "10/12/23",
+        "start_time": "15:00",
+        "end_time": "17:00",
+        "capacity": 200,
+        "tickets": [
+            {
+                "name": "children",
+                "description": "0 to 12 years old",
+                "price": 12
+            },
+            {
+                "name": "adults",
+                "price": 18.0
+            }
+        ]
+    }
 ]

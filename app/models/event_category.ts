@@ -1,9 +1,9 @@
-import { BaseModel, column } from "@adonisjs/lucid/orm";
+import { BaseModel, column } from '@adonisjs/lucid/orm'
 
 export default class EventCategory extends BaseModel {
-	@column({ isPrimary: true })
-	declare id: number;
+    @column({ isPrimary: true })
+    declare id: number
 
-	@column()
-	declare name: string;
+    @column()
+    declare name: string
 }

@@ -1,6 +1,8 @@
-@import "global";
+@import 'global';
+@import 'shared';
 
-@import "pages/home";
+@import 'pages/home';
+@import 'pages/event';
 
-@import "components/navbar";
-@import "components/card";
+@import 'components/navbar';
+@import 'components/card';

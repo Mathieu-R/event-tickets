@@ -1,12 +1,12 @@
-import NavBar from "./components/navbar";
+import NavBar from './components/navbar'
 
 function Layout({ children }) {
-	return (
-		<div className="app-container">
-			<NavBar />
-			<div className="main-content">{children}</div>
-		</div>
-	);
+    return (
+        <div className="app-container">
+            <NavBar />
+            <div className="main-content">{children}</div>
+        </div>
+    )
 }
 
-export default Layout;
+export default Layout

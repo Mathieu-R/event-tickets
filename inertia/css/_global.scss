@@ -1,20 +1,28 @@
+:root {
+    --background-primary: #faf3f0;
+    --background-secondary: #fff;
+    --background-ternary: #eeeeee;
+    --color-primary: #222831;
+    --color-secondary: #393e46;
+    --color-tertiary: #00adb5;
+}
+
 * {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 html,
 body,
 #app {
-	background-color: #f7f8fa;
-	font-family: "DM Sans", sans-serif;
-	color: #FFF;
-	height: 100%;
-	width: 100%;
+    background-color: var(--background-primary);
+    font-family: 'DM Sans', sans-serif;
+    color: var(--color-primary);
+    height: 100%;
+    width: 100%;
 }
 
 .main-content {
-	padding: 15px;
-	background: #232323;
+    background: var(--background-secondary);
 }
